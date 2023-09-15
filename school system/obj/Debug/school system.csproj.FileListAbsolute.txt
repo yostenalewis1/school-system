@@ -1,0 +1,11 @@
+F:\mobile app\my project\school system\bin\Debug\school system.exe.config
+F:\mobile app\my project\school system\bin\Debug\school system.exe
+F:\mobile app\my project\school system\bin\Debug\school system.pdb
+F:\mobile app\my project\school system\obj\Debug\school system.csproj.AssemblyReference.cache
+F:\mobile app\my project\school system\obj\Debug\school_system.Properties.Resources.resources
+F:\mobile app\my project\school system\obj\Debug\school system.csproj.GenerateResource.cache
+F:\mobile app\my project\school system\obj\Debug\school system.exe.licenses
+F:\mobile app\my project\school system\obj\Debug\school system.csproj.CoreCompileInputs.cache
+F:\mobile app\my project\school system\obj\Debug\school system.exe
+F:\mobile app\my project\school system\obj\Debug\school system.pdb
+F:\mobile app\my project\school system\obj\Debug\school_system.main.resources
